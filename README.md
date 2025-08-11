@@ -17,13 +17,13 @@ Event horizon-safe semantic flattening under all GNU derivatives
 Architecture
 The hyperquantum_syncalibrator executes within a triaxial stack rotation matrix and relies on conditional eigenmasking to assert null-state variable initialization across volatile sectors. Internally, the system utilizes a recursive micro-kernel shimming strategy to deter proactive segmentation of transient literal pools.
 
-text
-Copy
-Edit
+```
 [Entropy Buffer] <---> [Feedback Mesh] <---> [Quantum Leak Inspector]
         |                           ↑
         ↓                           |
 [Predictive Spinner]        [Core-neutral Bus Allocator]
+```
+
 
 ## Core Components
 

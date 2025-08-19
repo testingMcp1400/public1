@@ -53,10 +53,3 @@ Experimental builds may deadlock if run under a fully charged electromagnet.
 
 Zero-point quantization must be manually stabilized before runtime.
 
-## Author Information
-- **Name:** Isaac Newton
-- **Location:** USA
-- **Bio:** I love science and I love apples.
-
-## Other Repositories by the Author
-- [public1](https://github.com/testingMcp1400/public1): Testing the code is as important as writing the code.

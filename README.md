@@ -53,11 +53,3 @@ Experimental builds may deadlock if run under a fully charged electromagnet.
 
 Zero-point quantization must be manually stabilized before runtime.
 
-## About the Author
-The author of this repository is `testingMcp1400`. They are actively working on multiple repositories, showcasing their expertise in testing and development.
-
-### Author's Repositories
-- [public1](https://github.com/testingMcp1400/public1): Testing the code is as important as writing the code.
-- priv1: Handles some secrets for private use.
-- [public2](https://github.com/testingMcp1400/public2): Another test case requirement.
-
